@@ -1,0 +1,16 @@
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\BibliotecaADS.exe.config
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\BibliotecaADS.exe
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\BibliotecaADS.pdb
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\BibliotecaADS.csprojResolveAssemblyReference.cache
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\BibliotecaADS.geralForm.resources
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\BibliotecaADS.Properties.Resources.resources
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\BibliotecaADS.csproj.GenerateResource.Cache
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\BibliotecaADS.exe
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\BibliotecaADS.pdb
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\pt-BR\BibliotecaADS.resources.dll
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\BibliotecaADS.geralForm.pt-BR.resources
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\obj\Debug\pt-BR\BibliotecaADS.resources.dll
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\EntityFramework.dll
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\EntityFramework.SqlServer.dll
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\EntityFramework.xml
+F:\BibliotecaADS\BibliotecaADS\BibliotecaADS\bin\Debug\EntityFramework.SqlServer.xml
